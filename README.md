@@ -9,3 +9,7 @@ In this project the housing.com website is scrapped to get the details of the va
 ### Step 3 : Run the jupyter notebook code
 
 After running the code all the houses listed under the url will be scrapped and the data will be saved in the csv file.
+
+<p align="center">
+  <img src="https://github.com/abhijitjadhav1998/WebScrapper_for_housing.com/blob/master/github_assets/ezgif.com-video-to-gif%20(1).gif" />
+</p>
