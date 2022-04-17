@@ -13,3 +13,6 @@ After running the code all the houses listed under the url will be scrapped and 
 <p align="center">
   <img src="https://github.com/abhijitjadhav1998/WebScrapper_for_housing.com/blob/master/github_assets/ezgif.com-video-to-gif%20(1).gif" />
 </p>
+
+Dont foget to Star⭐ this repo 😉 and Follow me on<a href="https://github.com/abhijitjadhav1998/">  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
